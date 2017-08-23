@@ -1,0 +1,17 @@
+{
+  "name": "autoshare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "thaotrau",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "",
+    "mongoose-auto-increment": "",
+    "node-cron": "^1.2.1",
+    "request": ""
+  }
+}
